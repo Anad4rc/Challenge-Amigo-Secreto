@@ -51,8 +51,3 @@ function sortearAmigo(){
 
 }
  
-
-//<ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
-
-//o amigo secreto sorteado é: fulano
-//Por favor, insira um nome válido
