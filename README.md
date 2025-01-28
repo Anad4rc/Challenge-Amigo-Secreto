@@ -34,3 +34,8 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 - CSS
 - JavaScript
 - Git e Github
+
+<br>
+
+## ✏ Melhorias
+- Depois que o usuário sortear o amigo o jogo limpa a tela e o jogo reinicia
