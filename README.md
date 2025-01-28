@@ -49,4 +49,6 @@ Após finalizar a inclusão dos nomes, o usuário pode clicar no botão 'Sortear
 - Alguns problemas na hora de conectar o servidor local com o remoto, porém pesquisei e consegui resolver
 - Esqueci de utilizar alguns comandos git e por conta disso algumas alterações não subiram pro repositório hehe e depois que percebi corrigi
 
+ ✨ Allons-y ✨
+
 
