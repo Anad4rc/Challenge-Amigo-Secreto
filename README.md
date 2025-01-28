@@ -1,10 +1,12 @@
 # 🎈 Desafio Amigo Secreto 
 
-Neste desafio, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Este projeto consiste em uma aplicação que permite aos usuários criar uma lista de amigos para realizar um sorteio de 'amigo secreto'. 
 
-O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+A interface possui um campo de texto e um botão 'Adicionar', onde os usuários podem inserir os nomes dos participantes. 
 
-Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+Os nomes adicionados são exibidos em uma lista visível na página.
+
+Após finalizar a inclusão dos nomes, o usuário pode clicar no botão 'Sortear Amigo', que seleciona aleatoriamente um dos participantes e exibe o resultado na tela."
 
 
 <img src="/gifProject/desafio.gif">
