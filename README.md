@@ -1,4 +1,4 @@
-# Desafio Amigo Secreto 🎈
+# 🎈 Desafio Amigo Secreto 
 
 Neste desafio, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
@@ -10,7 +10,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 <img src="/gifProject/desafio.gif">
 
 
-## Funcionalidades:  
+## 📝 Funcionalidades:  
 - **Adicionar nomes:** Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
 - **Validar entrada:** Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
@@ -24,15 +24,11 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 <br>
 
 > G8 ONE - Projeto construido durante a formação Iniciante em Programação da Alura.
-
+[Clique aqui para acessar o projeto](https://anad4rc.github.io/Challenge-Amigo-Secreto/)
 
 <br>
 
-
-[Clique aqui para acessar o projeto](https://anad4rc.github.io/NLW-Esports-Explorer/)
-
-
-## 🛠 Tecnologias
+## 🛠 Tecnologias Utilizadas
 
 - HTML
 - CSS
