@@ -39,3 +39,12 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 ## ✏ Melhorias
 - Depois que o usuário sortear o amigo o jogo limpa a tela e o jogo reinicia
+
+<br>
+
+## 🤯 Dificuldades enfrentadas
+- Na hora de encontra a lógica para fazer a função que atualiza a lista de amigos, pois ainda tenho certa dificuldade em entender loops e tive que pesquisar como utilizar o for, praticar um pouco mais e rever algumas aulas para conseguir elaborar a função.
+- Alguns problemas na hora de conectar o servidor local com o remoto, porém pesquisei e consegui resolver
+- Esqueci de utilizar alguns comandos git e por conta disso algumas alterações não subiram pro repositório hehe e depois que percebi corrigi
+
+
