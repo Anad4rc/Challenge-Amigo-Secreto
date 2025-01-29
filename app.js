@@ -5,9 +5,6 @@ function adicionarAmigo(){
 
     let botaoAdicionar = document.querySelector('input').value;
 
-    // Usando .join() para juntar os nomes em uma string, separados por espaço
-    //exibirTextoNaTela('ul', amigo.join(' '));
-
   if (botaoAdicionar == ''){
     alert('Por favor, insira um nome.');
     return;
@@ -37,6 +34,7 @@ function atualizarListaDeAmigos(){
 }
 
 function sortearAmigo(){
+    //verifica se a lista está vazia
     if(amigo.length == 0){
         alert('Adicione os nomes na lista antes de sortea-los');
         return;
